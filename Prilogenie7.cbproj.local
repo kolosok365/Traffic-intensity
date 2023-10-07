@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.154,C:\Users\Никита\OneDrive\Документы\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Никита\OneDrive\Рабочий стол\Приложение билдер\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.237,=C:\Users\Никита\OneDrive\Рабочий стол\Курсовая по программированию. Колосков Никита. 2бАСУ2\Приложение\Win32\Debug\MyPrilogeniePCH1.pch</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.006,C:\Users\Никита\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.h=C:\Users\Никита\OneDrive\Рабочий стол\Приложение билдер\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.733,C:\Users\Никита\OneDrive\Рабочий стол\Приложение билдер\File1.cpp=C:\Users\Никита\OneDrive\Рабочий стол\Приложение билдер\funk.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.006,C:\Users\Никита\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Никита\OneDrive\Рабочий стол\Приложение билдер\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.673,C:\Users\Никита\OneDrive\Рабочий стол\Приложение билдер\funk.h=C:\Users\Никита\OneDrive\Рабочий стол\для билдера\funk.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.549,=C:\Users\Никита\OneDrive\Рабочий стол\Приложение билдер\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.971,C:\Users\Никита\OneDrive\Рабочий стол\Приложение билдер\KURSWORK.dfm=C:\Users\Никита\OneDrive\Рабочий стол\для билдера\KURSWORK.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.844,=C:\Users\Никита\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.797,C:\Users\Никита\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Никита\OneDrive\Рабочий стол\Приложение билдер\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.491,=C:\Users\Никита\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.420,=C:\Users\Никита\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.154,C:\Users\Никита\OneDrive\Рабочий стол\Приложение билдер\Unit1.cpp=C:\Users\Никита\OneDrive\Рабочий стол\Приложение билдер\KURSWORK.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.154,C:\Users\Никита\OneDrive\Рабочий стол\Приложение билдер\Unit1.dfm=C:\Users\Никита\OneDrive\Рабочий стол\Приложение билдер\KURSWORK.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.378,=C:\Users\Никита\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.971,C:\Users\Никита\OneDrive\Рабочий стол\Приложение билдер\KURSWORK.h=C:\Users\Никита\OneDrive\Рабочий стол\для билдера\KURSWORK.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.133,=C:\Users\Никита\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.030,C:\Users\Никита\OneDrive\Рабочий стол\Приложение билдер\Project1PCH1.h=C:\Users\Никита\OneDrive\Рабочий стол\Приложение билдер\MyPrilogeniePCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.773,C:\Users\Никита\OneDrive\Рабочий стол\Приложение билдер\File1.h=C:\Users\Никита\OneDrive\Рабочий стол\Приложение билдер\funk.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.006,C:\Users\Никита\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\Никита\OneDrive\Рабочий стол\Приложение билдер\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.803,=C:\Users\Никита\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.770,=C:\Users\Никита\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.690,=C:\Users\Никита\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.994,=C:\Users\Никита\OneDrive\Рабочий стол\Приложение билдер\File1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.503,C:\Users\Никита\OneDrive\Рабочий стол\Приложение билдер\funk.cpp=C:\Users\Никита\OneDrive\Рабочий стол\для билдера\funk.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.572,C:\Users\Никита\OneDrive\Рабочий стол\Курсовая работа по дисциплине Программирование. Колосков Никита 2бАСУ2\Приложение\MyPrilogenie.cbproj=C:\Users\Никита\OneDrive\Рабочий стол\Курсовая работа по дисциплине Программирование. Колосков Никита 2бАСУ2\Приложение\Prilogenie7.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.062,C:\Users\Никита\OneDrive\Рабочий стол\Приложение билдер\Project1.cbproj=C:\Users\Никита\OneDrive\Рабочий стол\Приложение билдер\MyPrilogenie.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.283,E:\MyPrilogenie.cbproj=C:\Users\Никита\OneDrive\Рабочий стол\для билдера\MyPrilogenie.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.154,C:\Users\Никита\OneDrive\Рабочий стол\Приложение билдер\Unit1.h=C:\Users\Никита\OneDrive\Рабочий стол\Приложение билдер\KURSWORK.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.971,C:\Users\Никита\OneDrive\Рабочий стол\Приложение билдер\KURSWORK.cpp=C:\Users\Никита\OneDrive\Рабочий стол\для билдера\KURSWORK.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.994,E:\MyPrilogenie.cbproj=C:\Users\Никита\OneDrive\Рабочий стол\Приложение билдер\MyPrilogenie.cbproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Win32"/>
+    <File Path="Win32\Debug"/>
+    <File Path="Win32\Debug\MyPrilogeniePCH1.pch"/>
+    <File Path="Prilogenie7.cpp"/>
+    <File Path="KURSWORK.cpp"/>
+    <File Path="KURSWORK.cpp"/>
+    <File Path="KURSWORK.dfm"/>
+    <File Path="KURSWORK.h"/>
+    <File Path="funk.h"/>
+    <File Path="funk.cpp"/>
+  </ProjectSortOrder>
+</BorlandProject>
